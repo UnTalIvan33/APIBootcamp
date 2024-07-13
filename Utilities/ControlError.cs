@@ -11,7 +11,7 @@
 			try
 			{
 				ruta = "C:\\ProyectoIntegrador\\Logs";
-				archivo = $"Log_{Fecha.ToString("dd/MM/yyyy")}";
+				archivo = $"Log_{Fecha.ToString("dd-MM-yyyy")}";
 
 				if (Directory.Exists(ruta))
 				{

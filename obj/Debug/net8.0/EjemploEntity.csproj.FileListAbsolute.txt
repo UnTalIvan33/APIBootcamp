@@ -129,3 +129,5 @@ C:\Users\joe00\OneDrive\Documentos\Cursos en línea\Bootcamp vmtdev\Ejercicios .
 C:\Users\joe00\OneDrive\Documentos\Cursos en línea\Bootcamp vmtdev\Ejercicios .NET\Ejemplo Entity\EjemploEntity\EjemploEntity\obj\Debug\net8.0\EjemploEntity.pdb
 C:\Users\joe00\OneDrive\Documentos\Cursos en línea\Bootcamp vmtdev\Ejercicios .NET\Ejemplo Entity\EjemploEntity\EjemploEntity\obj\Debug\net8.0\EjemploEntity.genruntimeconfig.cache
 C:\Users\joe00\OneDrive\Documentos\Cursos en línea\Bootcamp vmtdev\Ejercicios .NET\Ejemplo Entity\EjemploEntity\EjemploEntity\obj\Debug\net8.0\ref\EjemploEntity.dll
+C:\Users\joe00\OneDrive\Documentos\Cursos en línea\Bootcamp vmtdev\Ejercicios .NET\Ejemplo Entity\EjemploEntity\EjemploEntity\obj\Debug\net8.0\EjemploEntity.sourcelink.json
+C:\Users\joe00\OneDrive\Documentos\Cursos en línea\Bootcamp vmtdev\Ejercicios .NET\Ejemplo Entity\EjemploEntity\EjemploEntity\bin\Debug\net8.0\Newtonsoft.Json.dll
