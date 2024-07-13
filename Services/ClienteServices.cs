@@ -58,5 +58,10 @@ namespace EjemploEntity.Services
             }
             return respuesta;
         }
+
+        public Task<Respuesta> PostCliente(Cliente cliente)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

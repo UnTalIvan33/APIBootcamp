@@ -12,6 +12,7 @@ builder.Services.AddControllers();
 builder.Services.AddScoped<IProducto, ProductoServices>();
 builder.Services.AddScoped<ICatalogo, CatalogoServices>();
 builder.Services.AddScoped<ICliente, ClienteServices>();
+builder.Services.AddScoped<IVenta, VentaServices>();
 
 builder.Services.AddDbContext<PracticaVentasContext>(opciones =>
 opciones.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
